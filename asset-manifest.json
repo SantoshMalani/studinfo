@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/SantoshMalani/stud_info/static/css/main.19358800.chunk.css",
+    "main.js": "/SantoshMalani/stud_info/static/js/main.92bd9537.chunk.js",
+    "main.js.map": "/SantoshMalani/stud_info/static/js/main.92bd9537.chunk.js.map",
+    "runtime-main.js": "/SantoshMalani/stud_info/static/js/runtime-main.cca5200a.js",
+    "runtime-main.js.map": "/SantoshMalani/stud_info/static/js/runtime-main.cca5200a.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/SantoshMalani/stud_info/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.c6339466.chunk.js": "/SantoshMalani/stud_info/static/js/2.c6339466.chunk.js",
+    "static/js/2.c6339466.chunk.js.map": "/SantoshMalani/stud_info/static/js/2.c6339466.chunk.js.map",
+    "static/js/3.02fe95fa.chunk.js": "/SantoshMalani/stud_info/static/js/3.02fe95fa.chunk.js",
+    "static/js/3.02fe95fa.chunk.js.map": "/SantoshMalani/stud_info/static/js/3.02fe95fa.chunk.js.map",
+    "index.html": "/SantoshMalani/stud_info/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/SantoshMalani/stud_info/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.19358800.chunk.css.map": "/SantoshMalani/stud_info/static/css/main.19358800.chunk.css.map",
+    "static/js/2.c6339466.chunk.js.LICENSE.txt": "/SantoshMalani/stud_info/static/js/2.c6339466.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cca5200a.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.c6339466.chunk.js",
+    "static/css/main.19358800.chunk.css",
+    "static/js/main.92bd9537.chunk.js"
+  ]
+}
